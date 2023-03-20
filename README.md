@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![alt text](https://github.com/AnotherKaby/flutter_simple_biodata/blob/master/Screenshot.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
