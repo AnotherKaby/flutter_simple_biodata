@@ -2,7 +2,10 @@
 
 A new Flutter project.
 
-![alt text](https://github.com/AnotherKaby/flutter_simple_biodata/blob/master/Screenshot.jpg)
+## Screenshoot
+<p float="left">
+<img src="https://res.cloudinary.com/dxrioyfam/image/upload/v1680339493/Flutter-Biodata-App/chfdvkgabg5u7qat2r69.jpg" width="200" height="350" alt="Home Screen"/>
+<img src="https://res.cloudinary.com/dxrioyfam/image/upload/v1680339494/Flutter-Biodata-App/vc3jdbvseygi3zwoefst.jpg" width="200" height="350" alt="Detail Screen"/>
 
 ## Getting Started
 
